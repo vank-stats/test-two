@@ -3,7 +3,7 @@
 The goal of test-two is to ...
 
 
-My name is Ryan.
+My name is Ryne.
 
 ## Foods
 
