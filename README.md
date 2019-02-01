@@ -11,3 +11,8 @@ My name is Ryne.
 - masaman curry
 - TBD
 
+## Books
+
+- The Soul of Baseball
+- Children of Time
+- Kindred
